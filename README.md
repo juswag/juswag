@@ -2,7 +2,7 @@
 
 ### About
 
-SWE Intern @ T-Mobile
+SWE Intern @ T-Mobile \n
 Prev. SWE Intern @ Ark Marketing
 
 ### Interests
