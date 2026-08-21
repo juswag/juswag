@@ -1,13 +1,14 @@
-# Hi I'm Justin!
+# Hi, I'm Justin!
 
-# About
+### About
 
-SWE Intern @ T-Mobile, Prev SWE Intern @ Ark Marketing
+SWE Intern @ T-Mobile
+Prev. SWE Intern @ Ark Marketing
 
-# Interests
+### Interests
 
-Interested in AI infrastructure, distributed systems/learning, and software development.
+AI infrastructure, distributed systems/learning, and software development.
 
-# Currently
+### Currently
 
-Currently learning c++ & distribted systems.
+Learning C++ and distributed systems.
