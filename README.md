@@ -2,6 +2,8 @@
 
 ### About
 
+2nd yr math @ uc san diego
+
 prev. swe intern @ t-mobile, ark marketing
 
 ### Interests
