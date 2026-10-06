@@ -2,13 +2,8 @@
 
 ### About
 
-SWE Intern @ T-Mobile<br>
-Prev. SWE Intern @ Ark Marketing
+prev. swe intern @ t-mobile, ark marketing
 
 ### Interests
 
-AI infrastructure, distributed systems/learning, and software development.
-
-### Currently
-
-Learning C++ and distributed systems.
+applied ai, and robotics swe
