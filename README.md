@@ -2,10 +2,10 @@
 
 ### About
 
-2nd yr math @ uc san diego
+2nd yr math-cs @ uc san diego
 
-prev. swe intern @ t-mobile, ark marketing
+prev. swe intern @ t-mobile
 
 ### Interests
 
-applied ai, and robotics swe
+applied ai, robotics, inference systems, and any cool applications of tech!!
