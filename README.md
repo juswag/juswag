@@ -8,4 +8,4 @@ prev. swe intern @ t-mobile
 
 ### Interests
 
-applied ai, robotics, inference systems, and any cool applications of tech!!
+swe, inference eng (learning more about), and any useful applications of tech!
