@@ -1,5 +1,4 @@
-# Hi, I'm Justin!
+# hi, im justin!
 
-### Interests
-
-software engineering, and any other interesting applications of tech!
+### interests
+software engineering (applied ai), and i'm getting into systems engineering
